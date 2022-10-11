@@ -1,4 +1,4 @@
-### Course Assignment for JS2
+# Course Assignment for JS2
 This is a Course Assignment for JavaScript 2. 
 
 ## Goal 
